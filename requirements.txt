@@ -1,7 +1,0 @@
-opencv-python             
-numpy==2.3.2              
-pyfirmata2==2.5.1         
-ultralytics==8.3.183      
-Pillow==11.3.0            
-cvzone                    
-torch==2.8.0             
